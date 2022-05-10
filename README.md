@@ -16,6 +16,7 @@
   <img align="center" alt="P4mm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="P4mm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="P4mm-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="P4mm-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="right" alt="P4mm-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/fd6e6fd1bba66abdfb6b7fb08ff1085c.gif">
 </div>
   <br>
