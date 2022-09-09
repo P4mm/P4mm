@@ -6,7 +6,7 @@
 - 🌱 Estudando desenvolvimento Web
 - 📫 Contate-me no e-mail: harveypamela@hotmail.com
 - 😄 Ela/Dela
-- :computer: Insrição para cursos gratuitos em tech: https://dio.me/sign-up?ref=837PWILANT
+- :computer: Inscrição para cursos gratuitos em tech: https://dio.me/sign-up?ref=837PWILANT
 <div align="center">
   <a href="https://github.com/P4mm">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p4mm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
