@@ -2,7 +2,7 @@
 
 ### Eu sou a Pamela Dantas
 
-- 🔭 Hoje trabalho com dados
+- 🔭 Hoje trabalho como Business Tech Analyst
 - 🌱 Estudando desenvolvimento Web
 - 📫 Contate-me no e-mail: harveypamela@hotmail.com
 - 😄 Ela/Dela
