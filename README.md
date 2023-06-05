@@ -3,7 +3,7 @@
 ### Eu sou a Pamela Dantas
 
 - 🔭 Hoje trabalho como Business Tech Analyst
-- 🌱 Estudando desenvolvimento Web
+- 🌱 Estudando análise e desenvilvimento de sistemas
 - 📫 Contate-me no e-mail: harveypamela@hotmail.com
 - 😄 Ela/Dela
 - :computer: Inscrição para cursos gratuitos em tech: https://dio.me/sign-up?ref=837PWILANT
